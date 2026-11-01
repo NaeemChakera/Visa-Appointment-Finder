@@ -1,4 +1,4 @@
-# U.S. Visa Appointment Finder
+# Visa Appointment Finder
 
 An automation tool that monitored the U.S. visa appointment calendar for the U.S. Embassy in Nairobi and attempted to move an existing appointment into an earlier date window. I built it because my visa appointment was on the same day my classes started, and the scheduling website did not provide an automatic way to watch for newly released slots.
 
